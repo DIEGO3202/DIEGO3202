@@ -18,10 +18,10 @@ Combino dos caminos: programo sitios web para clientes de forma independiente, y
 
 ### 📚 Este perfil está dividido en dos partes
 
-**🎓 [Estudio y ciberseguridad](#)** *(link al repo cuando esté creado)*
+**🎓 [Estudio y ciberseguridad](https://github.com/DIEGO3202/estudio-ciberseguridad)**
 Código propio, escrito y entendido por mí — aunque sea simple. Acá se ve mi progreso real, sin ayuda de IA en la escritura del código.
 
-**🌐 [Proyectos web](#)** *(link al repo cuando esté creado)*
+**🌐 [Proyectos web](https://github.com/DIEGO3202/proyectos-web)**
 Sitios y apps construidos con apoyo de IA, donde mi rol fue guiar el diseño, la lógica y las decisiones del proyecto. Lo aclaro abiertamente — ver el detalle de cómo trabajo en el README de ese repo.
 
 ---
